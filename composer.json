@@ -1,0 +1,17 @@
+{
+	"require-dev": {
+		"nette/tester": "~1.7"
+	},
+	"authors": [
+		{
+			"name": "Vojtěch Kohout",
+			"email": "v.kohout@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"Game": "src/",
+			"GameTest": "tests/"
+		}
+	}
+}
